@@ -2,8 +2,6 @@
 
 A lightweight Windows Forms application (.NET Framework) that loads and displays Crystal Reports (.rpt) files with dynamic SQL Server connection settings.
 
----
-
 ## 🚀 Features
 
 * 📂 Load Crystal Report files (.rpt)
@@ -17,8 +15,6 @@ A lightweight Windows Forms application (.NET Framework) that loads and displays
     * SQL Server Authentication (User/Password)
 
 * 👓 Integrated visualization using **CrystalReportViewer**
-
----
 
 ## 🛠️ Technologies Used
 
